@@ -37,6 +37,7 @@ function Sobre(){
                 <Grid item xs={6}>
                     <img src="https://www.napratica.org.br/wp-content/uploads/2016/01/trabalho-voluntario.jpg" alt="" width={550} />
                 </Grid>
+                
             </Grid>
         </>
     );

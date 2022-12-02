@@ -15,13 +15,13 @@ function Navbar(){
             <a href="/sobre"><button className="btn btn-design">Sobre a Probem</button></a>
         </div>
         <div className="btn center">
-            <a href=""><button className=" btn btn-design">lorem</button></a>
+            <a href="/contato"><button className=" btn btn-design">Contato</button></a>
         </div>
         <div className="btn center">
             <a href=""><button className="btn btn-design">lorem</button></a>
         </div>
         <div className="btn center">
-            <a href=""><button className="btn btn-design">Login</button></a>
+            <a href="/login"><button className="btn btn-design">Login</button></a>
         </div>
         <div className="center">
             <a href="//google.com"><img className="tm" src="https://cdn-icons-png.flaticon.com/512/64/64673.png" alt=""/></a>
